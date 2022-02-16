@@ -45,6 +45,6 @@ Enjoy the bot, updates are frequent so always return to replace your `bot.js` wi
 ---
 
 ### Any errors?
-If you'd like to come to me personally, join the [support server](https://discord.gg/t2nV9kBnch)
+If you'd like to come to me personally, DM me on "Bananos#1873". Or, if you'd like to speak to the original creator of the bot (outdated v12), join the [support server](https://discord.gg/t2nV9kBnch)
 
 Also a big thank you to the contributors for correcting small errors and adding help to the bot.
